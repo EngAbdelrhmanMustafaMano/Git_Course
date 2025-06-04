@@ -1,0 +1,6 @@
+git status: to see what is the status of this project lets say there is new files right there not in the repo !
+git add (file name): to upload the file to the staging area then go to local area by git commit then to github by git push
+git reset head (file name): to remove file that you upload to staging area by mistake and want to get it out again!
+git commit -m "string": to upload your file to local repo with a message text !
+git branch: tells you all the branch that in your git hub
+git push (RemoteName) (BranchName): to send your commits from local to server
